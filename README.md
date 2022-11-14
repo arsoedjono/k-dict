@@ -1,0 +1,3 @@
+This a collection of Korean words/grammars that I regularly know/study, so not all of the words will be here. I mainly study using [Duolingo](https://id.duolingo.com/). Most of the description here came from the Duolingo app itself and from [Wiktionary](https://en.wiktionary.org/).
+
+This collection is made using [Obsidian](https://obsidian.md/) so it is better to use the same app for the same experience.
